@@ -1,3 +1,4 @@
 {
-  "command": "4"
+  "cmd": "whoami",
+  "id": 1
 }
